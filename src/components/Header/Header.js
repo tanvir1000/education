@@ -6,13 +6,13 @@ import useAuth from '../../hooks/useAuth';
 const Header = () => {
 	const {user, logOut} = useAuth();
 	return (
-		<div className="d-flex justify-content-between align-items-center head-container container mb-3">
+		<div className="d-flex justify-content-between align-items-center head-container container mb-3   collapseOnSelect expand=lg">
 			<div>
 				<h2 className="text-info">
 				Revulation  <small>Dental & Care</small>
 				</h2>
 			</div>
-			<div className="mx-5">
+			<div className="mx-5 collapseOnSelect expand=lg">
 				<NavLink
 					className="mx-5 text-decoration-none"
 					to="/home"
