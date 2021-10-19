@@ -1,4 +1,4 @@
-live link : https://loving-nightingale-237eab.netlify.app/
+live link : https://react-dental-authentication.web.app
 
 1.This is Dental Centar.
 2. Best Dental service you can get here for your teeth.
